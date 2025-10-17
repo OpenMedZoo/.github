@@ -44,9 +44,10 @@
 | 🩺 **[MedGO](https://github.com/openmedzoo/MedGO)** | 新一代医学大语言模型，提供精准的知识问答、病历生成与辅助诊断建议。 | `⭐️ 待发布` |
 | 🛡️ **[Security-Reasoner](https://github.com/openmedzoo/Security-Reasoner)** | 医疗大模型的“守护者”，用于保障模型输出的安全性、事实性和合规性。 | `⭐️ 待发布` |
 ---
-<! --| 📚 **[Awesome-Medical-Datasets-for-LLM](https://github.com/openmedzoo/Awesome-Medical-Datasets-for-LLM)** | 为医疗大模型研究整理的开源数据集集合。 | `⭐️ 待发布` |
-| ⚖️ **[MedSafety-Bench](https://github.com/openmedzoo/MedSafety-Bench)** | 面向医疗大模型的安全性与可靠性评测基准。 | `⭐️ 待发布` |
- -->
+<!-- 待未来发布的仓库模板
+| 📚 **[Awesome-Medical-Datasets-for-LLM]** | 为医疗大模型研究整理的开源数据集集合。 | `⭐️ 待发布` |
+| ⚖️ **[MedSafety-Bench]** | 面向医疗大模型的安全性与可靠性评测基准。 | `⭐️ 待发布` |
+-->
 
 ## 核心模型 (Core Models)
 
