@@ -43,9 +43,9 @@
 | :--- | :--- | :---: |
 | 🩺 **[MedGO](https://github.com/openmedzoo/MedGO)** | 新一代医学大语言模型，提供精准的知识问答、病历生成与辅助诊断建议。 | `⭐️ 待发布` |
 | 🛡️ **[Security-Reasoner](https://github.com/openmedzoo/Security-Reasoner)** | 医疗大模型的“守护者”，用于保障模型输出的安全性、事实性和合规性。 | `⭐️ 待发布` |
-| 📚 **[Awesome-Medical-Datasets-for-LLM](https://github.com/openmedzoo/Awesome-Medical-Datasets-for-LLM)** | 为医疗大模型研究整理的开源数据集集合。 | `⭐️ 待发布` |
+<! --| 📚 **[Awesome-Medical-Datasets-for-LLM](https://github.com/openmedzoo/Awesome-Medical-Datasets-for-LLM)** | 为医疗大模型研究整理的开源数据集集合。 | `⭐️ 待发布` |
 | ⚖️ **[MedSafety-Bench](https://github.com/openmedzoo/MedSafety-Bench)** | 面向医疗大模型的安全性与可靠性评测基准。 | `⭐️ 待发布` |
-
+ -->
 ---
 
 ## 核心模型 (Core Models)
@@ -72,12 +72,12 @@
 
 **OpenMedZoo** 的发展离不开以下核心贡献者与合作单位的支持。
 
-*   **项目负责人**: 张三, 李四
+*   **项目负责人**: TBD
 *   **核心贡献单位**:
-    *   A大学 人工智能学院
-    *   B附属医院 信息中心
-    *   C国家重点实验室
-*   **主要贡献者**: 王五, 赵六, 孙七, 周八
+    *   TBD大学 人工智能学院
+    *   TBD附属医院 信息中心
+    *   TBD国家重点实验室
+*   **主要贡献者**: TBD
 
 我们欢迎更多对医疗AI充满热情的个人和机构加入我们！
 
