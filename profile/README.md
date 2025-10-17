@@ -86,5 +86,5 @@
 
 我们期待与学术界和产业界的同仁进行深入交流与合作。
 
-*   **官方邮箱**: <contact@openmedzoo.org>
+*   **官方邮箱**: <openmedzoo@pjlab.org.cn>
 *   **加入讨论**: (可以链接到 Slack, Discord, 或微信群二维码)
