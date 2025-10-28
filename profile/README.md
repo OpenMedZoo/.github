@@ -1,7 +1,7 @@
 # OpenMedZoo 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gist/your-username/your-gist-id/raw/your-image.svg" width="150"> <!-- 建议替换为您设计的Logo SVG -->
+  <img src="./openmedzoo.jpg" width="150"> <!-- 建议替换为您设计的Logo SVG -->
 </p>
 
 <p align="center">
