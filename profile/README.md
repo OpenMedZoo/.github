@@ -88,3 +88,7 @@
 
 *   **官方邮箱**: <openmedzoo@pjlab.org.cn>
 *   **加入讨论**: (可以链接到 Slack, Discord, 或微信群二维码)
+
+## 友情链接
+
+- **[MedBench](https://medbench.opencompass.org.cn)**
