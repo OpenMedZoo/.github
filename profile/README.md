@@ -91,4 +91,4 @@
 
 ## 友情链接
 
-- **[MedBench](https://medbench.opencompass.org.cn)** -- 一个科学、公平且严谨的中文医疗大模型评测体系及开放平台。
+- **[MedBench](https://medbench.opencompass.org.cn)** —— 一个科学、公平且严谨的中文医疗大模型评测体系及开放平台。
