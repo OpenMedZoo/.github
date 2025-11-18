@@ -39,10 +39,10 @@
 
 ## ⭐ 精选仓库 (Featured Repositories)
 
-| 仓库 (Repository) | 简介 (Description) | Stars |
+| 仓库 (Repository) | 简介 (Description) | Status |
 | :--- | :--- | :---: |
-| 🩺 **[MedGO](https://github.com/openmedzoo/MedGO)** | 新一代医学大语言模型，提供精准的知识问答、病历生成与辅助诊断建议。 | `⭐️ 待发布` |
-| 🛡️ **[Security-Reasoner](https://github.com/openmedzoo/Security-Reasoner)** | 医疗大模型的“守护者”，用于保障模型输出的安全性、事实性和合规性。 | `⭐️ 待发布` |
+| 🩺 **[MedGO](https://github.com/openmedzoo/MedGO)** | 开源的全科基层医生大模型，提供精准的知识问答、病历生成与辅助诊断建议。 | `⭐️ 已发布` |
+| 🛡️ **[SafeMed-R1](https://github.com/openmedzoo/SafeMedR1)** | 医疗大模型的“守护者”，用于保障模型输出的安全性、事实性和合规性。 | `⭐️ 已发布` |
 ---
 <!-- 待未来发布的仓库模板
 | 📚 **[Awesome-Medical-Datasets-for-LLM]** | 为医疗大模型研究整理的开源数据集集合。 | `⭐️ 待发布` |
@@ -51,35 +51,35 @@
 
 ## 核心模型 (Core Models)
 
-### 🩺 MedGO: 新一代医学大语言模型
+### 🩺 MedGO: 开源的全科基层医生大模型
 
 **MedGO** 是基于海量医学文献、临床指南和脱敏病历数据训练的医学专用大语言模型。它具备强大的自然语言理解和生成能力，旨在为医生、研究人员和患者提供精准、可靠的智能支持。
 
-- **主要功能**: 医学知识问答、病历摘要与报告生成、辅助诊断建议、临床对话模拟。
+- **主要功能**: 医学知识问答、病历摘要与报告生成、临床推理、科研辅助等。
 - **技术特点**: 知识增强、事实性校准、多轮对话能力。
 - **[代码与模型] (https://github.com/openmedzoo/MedGO)**
 
-### 🛡️ 内生安全推理模型 (Endogenous Security Reasoning Model)
+### 🛡️ SafeMed-R1: 内生安全推理模型
 
-作为医疗AI生态的“免疫系统”，该模型专注于保障大模型输出的安全性与合规性。它能够对其他模型（如MedGO）的生成内容进行实时风险评估、事实核查和伦理审查，形成一个“生成-审查”的闭环，确保输出结果安全、可靠、负责任。
+作为医疗AI生态的“免疫系统”，该模型专注于保障大模型输出的安全性与合规性。它能够对其他模型的生成内容进行实时风险评估、事实核查和伦理审查，形成一个“生成-审查”的闭环，确保输出结果安全、可靠、负责任。
 
 - **主要功能**: 风险内容识别（如错误信息、偏见）、事实性核查、医疗合规性检查、可解释性增强。
 - **技术特点**: 与主模型解耦、推理过程透明、支持自定义安全规则。
-- **[了解安全框架] (https://github.com/openmedzoo/Security-Reasoner)**
+- **[了解安全框架] (https://github.com/openmedzoo/SafeMedR1)**
 
 ---
-
+<!-- 
 ## 贡献者 (Contributors)
 
 **OpenMedZoo** 的发展离不开以下核心贡献者与合作单位的支持。
 
-*   **项目负责人**: TBD
+*   **项目负责人**: Jie XU, Rongzhao Zhang
 *   **核心贡献单位**:
-    *   TBD大学 人工智能学院
-    *   TBD附属医院 信息中心
-    *   TBD国家重点实验室
-*   **主要贡献者**: TBD
-
+    *   上海人工智能实验室
+    *   烁乐科技
+    *   上海东方医院
+*   **主要贡献者**: Junqiao Wang, Chao Ding, Tianbin Li
+-->
 我们欢迎更多对医疗AI充满热情的个人和机构加入我们！
 
 ## 联系我们
