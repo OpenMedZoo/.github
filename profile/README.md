@@ -1,5 +1,3 @@
-# OpenMedZoo 
-
 <p align="center">
   <img src="./openmedzoo-thin.jpg" width="450"> 
 </p>
