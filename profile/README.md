@@ -11,8 +11,7 @@
 <p align="center">
     <a href="https://github.com/openmedzoo"><img src="https://img.shields.io/badge/模型-Models-blue.svg"></a>
     <a href="https://github.com/openmedzoo"><img src="https://img.shields.io/badge/数据集-Datasets-green.svg"></a>
-    <a href="https://github.com/openmedzoo"><img src="https://img.shields.io/badge/许可证-Apache--2.0-red.svg"></a>
-    <a href="mailto:contact@openmedzoo.org"><img src="https://img.shields.io/badge/联系我们-Contact%20Us-lightgrey.svg"></a>
+    <a href="mailto:openmedzoo@pjlab.org.cn"><img src="https://img.shields.io/badge/联系我们-Contact%20Us-lightgrey.svg"></a>
 </p>
 
 ---
