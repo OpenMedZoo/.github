@@ -1,7 +1,7 @@
 # OpenMedZoo 
 
 <p align="center">
-  <img src="./openmedzoo.jpg" width="450"> <!-- 建议替换为您设计的Logo SVG -->
+  <img src="./openmedzoo.jpg" width="450"> 
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <p align="center">
     <a href="https://github.com/openmedzoo"><img src="https://img.shields.io/badge/模型-Models-blue.svg"></a>
     <a href="https://github.com/openmedzoo"><img src="https://img.shields.io/badge/数据集-Datasets-green.svg"></a>
-    <a href="mailto:openmedzoo@pjlab.org.cn"><img src="https://img.shields.io/badge/联系我们-Contact%20Us-lightgrey.svg"></a>
+    <a href="mailto:openmedzoo@pjlab.org.cn"><img src="https://img.shields.io/badge/联系我们-Contact%20Us-orange.svg"></a>
 </p>
 
 ---
