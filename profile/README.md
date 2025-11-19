@@ -1,7 +1,7 @@
 # OpenMedZoo 
 
 <p align="center">
-  <img src="./openmedzoo.jpg" width="450"> 
+  <img src="./openmedzoo-thin.jpg" width="450"> 
 </p>
 
 <p align="center">
