@@ -62,7 +62,7 @@
 
 - **主要功能**: 医学问答与临床推理、抗诱导与风险拦截、安全与伦理守护、教学与宣教支持。
 - **技术特点**: 多维安全对齐、强化学习优化、抗攻击鲁棒性。
-- **[了解安全框架] (https://github.com/openmedzoo/SafeMed-R1)**
+- **[代码与模型] (https://github.com/openmedzoo/SafeMed-R1)**
 
 ---
 <!-- 
